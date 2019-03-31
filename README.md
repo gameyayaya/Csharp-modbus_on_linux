@@ -32,7 +32,7 @@
     telnet 192.168.1.10 502
     ```
     * Modbuspoll 测试
-![](.\\_modbuspoll.JPG)
+![](https://github.com/gameyayaya/Csharp-modbus_on_linux/blob/master/_modbuspoll.JPG)
 
 * 编程环境
   * windows 10 x64
